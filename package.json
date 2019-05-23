@@ -15,7 +15,8 @@
     "express": "^4.17.0",
     "express-graphql": "^0.8.0",
     "graphql": "^14.3.0",
-    "graphql-tools": "^4.0.4"
+    "graphql-tools": "^4.0.4",
+    "mongoose": "^5.5.10"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
